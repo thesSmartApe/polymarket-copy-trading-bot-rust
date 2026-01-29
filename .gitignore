@@ -1,0 +1,49 @@
+# =============================================================================
+# Polymarket Copy Trading Bot - Root .gitignore
+# =============================================================================
+
+# Environment and secrets (never commit)
+.env
+.env.local
+.env.*.local
+*.env
+
+# Credentials and API caches
+.clob_creds.json
+.clob_market_cache.json
+.clob_slug_cache.json
+
+# OS junk
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# IDE / Editor
+.idea/
+.vscode/
+*.iml
+*.sublime-*
+
+# Logs and generated data
+*.log
+*.csv
+*.db
+*.sqlite
+
+# Python (if any scripts at root)
+__pycache__/
+*.py[cod]
+.Python
+*.egg-info/
+.eggs/
+venv/
+.venv/
+
+# Rust build (in case of workspace or builds from root)
+/target/
+
+# Backup / temp
+*.bak
+*.swp
+*.swo
+*~
