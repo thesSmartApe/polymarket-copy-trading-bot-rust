@@ -58,8 +58,11 @@ You can follow any public Polymarket trader by using their wallet address as `TA
 
 A **video tutorial** shows how to set up and run the Polymarket Rust copy trading bot step by step.
 
-- The video is linked in the repository (e.g. in Releases or the repo description).
 - For the latest link or help: **Telegram [@jerrix1](https://t.me/jerrix1)**.
+
+
+https://github.com/user-attachments/assets/6ff4c581-520b-42ee-ae4c-ade1e03e683c
+
 
 ---
 
