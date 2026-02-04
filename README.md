@@ -2,6 +2,14 @@
 
 > **Automated copy trading for Polymarket.** Mirror successful traders in real time—high performance, one binary, production-ready.
 
+## Other Editions
+
+| Edition      | Repository |
+|-------------|------------|
+| **TypeScript** | [polymarket-copy-trading-bot](https://github.com/thesSmartApe/polymarket-copy-trading-bot) |
+| **Python**      | [polymarket-copy-trading-bot-python](https://github.com/thesSmartApe/polymarket-copy-trading-bot-python) |
+| **Rust**        | This repo — high-performance, one binary |
+
 [![GitHub](https://img.shields.io/badge/GitHub-Repository-blue)](https://github.com/thesSmartApe/polymarket-copy-trading-bot-rust)
 [![Rust](https://img.shields.io/badge/rust-1.70%2B-orange)](https://rustup.rs/)
 [![License: ISC](https://img.shields.io/badge/License-ISC-blue.svg)](LICENSE)
